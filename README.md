@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Looking for a job.
+I'm looking for a job in China/GuangZhou.
 
 <!--
 **poyoho/poyoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
